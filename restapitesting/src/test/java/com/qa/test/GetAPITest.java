@@ -22,6 +22,7 @@ public class GetAPITest extends TestBase{
 		servieUrl = prop.getProperty("URL");
 		apiUrl = prop.getProperty("serviceURL");
 		url = servieUrl + apiUrl;
+		//Command
 		
 	}	
 	
